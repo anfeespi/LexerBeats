@@ -38,7 +38,7 @@ void main() {
           4: KICK // Another comment
         }
         
-        TRACK Base2 ♂{
+        TRACK Base2 {
           1: RIDE
           2: HIHAT_FT
           3: TOMTOM
