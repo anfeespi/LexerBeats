@@ -39,4 +39,4 @@ jobs:
       # package:test for this step to succeed. Note that Flutter projects will
       # want to change this to 'flutter test'.
       - name: Run app
-        run: dart run lexer_beats.dart
+        run: dart run bin/lexer_beats.dart
