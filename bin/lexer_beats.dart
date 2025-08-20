@@ -39,7 +39,7 @@ void main() {
         }
         
         TRACK Base2 {
-          1: RIDE
+          1: RIDE+
           2: HIHAT_FT
           3: TOMTOM
           4: FLOORTOM
