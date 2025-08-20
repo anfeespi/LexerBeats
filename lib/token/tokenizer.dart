@@ -19,7 +19,7 @@ class Tokenizer {
     _tokens.clear();
 
     while (s.isNotEmpty) {
-      print(s);
+      //print(s);
       int remaining = s.length;
       bool match = false;
 

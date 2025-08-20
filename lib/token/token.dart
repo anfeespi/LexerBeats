@@ -1,21 +1,21 @@
 class Token {
-  static const int TEMPO = 0;
-  static const int TRACK = 1;
-  static const int PLAY = 2;
-  static const int LOOP = 3;
-  static const int GROUP = 4;
-  static const int HIHAT_FT = 5;
-  static const int TOMTOM = 6;
-  static const int FLOORTOM = 7;
-  static const int RIDE = 8;
-  static const int HIHAT = 9;
-  static const int SNARE = 10;
-  static const int KICK = 11;
-  static const int OPEN_BRACKET = 12;
-  static const int CLOSE_BRACKET = 13;
-  static const int COLON = 14;
-  static const int NUMBER = 15;
-  static const int VARIABLE = 16;
+  static const int tempo = 0;
+  static const int track = 1;
+  static const int play = 2;
+  static const int loop = 3;
+  static const int group = 4;
+  static const int hithatFt = 5;
+  static const int tomtom = 6;
+  static const int floorTom = 7;
+  static const int ride = 8;
+  static const int hihat = 9;
+  static const int snare = 10;
+  static const int kick = 11;
+  static const int openBracket = 12;
+  static const int closeBracket = 13;
+  static const int colon = 14;
+  static const int number = 15;
+  static const int variable = 16;
 
 
   final int token;
