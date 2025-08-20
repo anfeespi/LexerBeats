@@ -44,7 +44,9 @@ void main() {
           3: TOMTOM
           4: FLOORTOM
         }
-        
+        /* This is a
+          multi-line comment
+        */
         GROUP Ritmo { // This is a group comment
           Base1
           Base2
